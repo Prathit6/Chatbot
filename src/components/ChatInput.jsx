@@ -66,7 +66,7 @@
     border-0 
     px-[5px]  
     cursor-pointer
-    ml-[15px] /* Reduce margin */
+    ml-[1px] /* Reduce margin */
     text-[15px]  /* Smaller font size */
     rounded-[10px]  /* Slightly smaller border-radius */
     w-[80px] /* Set a smaller width */
