@@ -31,4 +31,4 @@ This project is made for learning how chat UI and basic logic works in React.
 1. Clone or download the repository
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/Prathit6/Chatbot.git
